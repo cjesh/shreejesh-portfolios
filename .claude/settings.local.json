@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:polished.framer.media)",
+      "WebFetch(domain:www.linkedin.com)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
